@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AtividadeExtra</string>
+    <string name="btn_text">Selecionar</string>
+    <string name="efficiency">Eficácia</string>
+    <string name="type">Tipo</string>
+    <string-array name="vacinas">
+        <item>CoronaVac - Sinovac</item>
+        <item>Oxford/AstraZeneca</item>
+        <item>Moderna</item>
+        <item>Johnson</item>
+        <item>Pfizer/BioNTech</item>
+    </string-array>
+</resources>
